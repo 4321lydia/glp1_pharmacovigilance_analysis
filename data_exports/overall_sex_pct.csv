@@ -1,0 +1,9 @@
+brand_queried,patient_sex,gi_unique_patients,total_baseline_patients,gi_incidence_rate_pct
+MOUNJARO,Female,816,3520,23.18
+MOUNJARO,Male,239,829,28.83
+OZEMPIC,Female,547,1271,43.04
+OZEMPIC,Male,373,900,41.44
+SAXENDA,Female,480,1437,33.4
+SAXENDA,Male,78,269,29.0
+WEGOVY,Female,1137,3725,30.52
+WEGOVY,Male,250,807,30.98

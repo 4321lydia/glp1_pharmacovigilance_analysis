@@ -1,0 +1,41 @@
+brand_queried,Clean_GI_sx,any_serious_outcome_pct,hospitalization_rate_pct,death_rate_pct,life_threatening_rate_pct,disabling_outcome_pct
+MOUNJARO,Abdominal Pain,15.51,7.76,0.0,0.0,0.0
+MOUNJARO,Biliary Disorder,69.23,26.92,0.0,0.0,0.0
+MOUNJARO,Constipation,13.7,4.79,0.0,0.0,0.0
+MOUNJARO,Dehydration,48.33,35.0,1.67,3.33,0.0
+MOUNJARO,Diarrhoea,20.07,11.04,0.0,0.67,0.33
+MOUNJARO,GERD,11.69,6.49,0.0,0.0,1.3
+MOUNJARO,Gastroparesis,18.18,9.09,0.0,0.0,0.0
+MOUNJARO,Intestinal Obstruction,100.0,60.0,0.0,0.0,0.0
+MOUNJARO,Nausea/Vomiting,10.8,5.97,0.13,0.51,0.25
+MOUNJARO,Pancreatitis,100.0,28.57,0.0,0.0,0.0
+OZEMPIC,Abdominal Pain,27.6,11.36,0.65,0.0,0.65
+OZEMPIC,Biliary Disorder,86.96,43.48,0.0,0.0,0.0
+OZEMPIC,Constipation,25.85,8.84,0.0,0.0,0.68
+OZEMPIC,Dehydration,84.78,63.04,4.35,2.17,0.0
+OZEMPIC,Diarrhoea,35.71,12.7,0.4,0.4,0.4
+OZEMPIC,GERD,21.88,9.38,0.0,0.0,3.12
+OZEMPIC,Gastroparesis,45.45,36.36,0.0,0.0,0.0
+OZEMPIC,Intestinal Obstruction,100.0,55.56,0.0,0.0,0.0
+OZEMPIC,Nausea/Vomiting,30.3,14.65,0.4,0.2,0.4
+OZEMPIC,Pancreatitis,99.23,38.46,0.77,0.77,0.77
+SAXENDA,Abdominal Pain,62.09,20.26,0.0,0.0,1.96
+SAXENDA,Biliary Disorder,90.22,47.83,0.0,2.17,0.0
+SAXENDA,Constipation,50.63,24.05,1.27,1.27,1.27
+SAXENDA,Dehydration,90.2,66.67,1.96,0.0,0.0
+SAXENDA,Diarrhoea,62.82,24.36,1.28,1.28,5.13
+SAXENDA,GERD,38.46,3.85,0.0,0.0,0.0
+SAXENDA,Gastroparesis,50.0,0.0,0.0,0.0,0.0
+SAXENDA,Intestinal Obstruction,100.0,90.91,0.0,9.09,0.0
+SAXENDA,Nausea/Vomiting,51.5,20.68,0.75,0.75,1.5
+SAXENDA,Pancreatitis,97.44,50.0,1.28,2.56,0.0
+WEGOVY,Abdominal Pain,47.15,23.57,0.5,1.99,1.74
+WEGOVY,Biliary Disorder,89.47,37.89,0.0,1.05,3.16
+WEGOVY,Constipation,33.81,15.24,0.0,1.9,1.43
+WEGOVY,Dehydration,78.57,43.75,0.89,3.57,1.79
+WEGOVY,Diarrhoea,45.86,21.38,1.03,2.07,1.72
+WEGOVY,GERD,32.41,13.89,0.0,0.0,4.63
+WEGOVY,Gastroparesis,86.11,36.11,0.0,2.78,2.78
+WEGOVY,Intestinal Obstruction,100.0,71.11,8.89,6.67,0.0
+WEGOVY,Nausea/Vomiting,34.6,15.25,0.3,1.3,1.71
+WEGOVY,Pancreatitis,96.15,51.92,2.88,5.77,0.96

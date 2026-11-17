@@ -1,0 +1,401 @@
+brand_queried,patient_sex,age_bracket,Clean_GI_sx,patient_count,cohort_total_patients,symptom_share_pct
+MOUNJARO,Female,18-34,Abdominal Pain,26,66,39.39
+MOUNJARO,Female,18-34,Biliary Disorder,0,66,0.0
+MOUNJARO,Female,18-34,Constipation,7,66,10.61
+MOUNJARO,Female,18-34,Dehydration,3,66,4.55
+MOUNJARO,Female,18-34,Diarrhoea,18,66,27.27
+MOUNJARO,Female,18-34,GERD,4,66,6.06
+MOUNJARO,Female,18-34,Gastroparesis,2,66,3.03
+MOUNJARO,Female,18-34,Intestinal Obstruction,0,66,0.0
+MOUNJARO,Female,18-34,Nausea/Vomiting,50,66,75.76
+MOUNJARO,Female,18-34,Pancreatitis,0,66,0.0
+MOUNJARO,Female,35-49,Abdominal Pain,45,194,23.2
+MOUNJARO,Female,35-49,Biliary Disorder,3,194,1.55
+MOUNJARO,Female,35-49,Constipation,25,194,12.89
+MOUNJARO,Female,35-49,Dehydration,9,194,4.64
+MOUNJARO,Female,35-49,Diarrhoea,38,194,19.59
+MOUNJARO,Female,35-49,GERD,11,194,5.67
+MOUNJARO,Female,35-49,Gastroparesis,1,194,0.52
+MOUNJARO,Female,35-49,Intestinal Obstruction,1,194,0.52
+MOUNJARO,Female,35-49,Nausea/Vomiting,144,194,74.23
+MOUNJARO,Female,35-49,Pancreatitis,4,194,2.06
+MOUNJARO,Female,50-64,Abdominal Pain,70,238,29.41
+MOUNJARO,Female,50-64,Biliary Disorder,9,238,3.78
+MOUNJARO,Female,50-64,Constipation,38,238,15.97
+MOUNJARO,Female,50-64,Dehydration,10,238,4.2
+MOUNJARO,Female,50-64,Diarrhoea,46,238,19.33
+MOUNJARO,Female,50-64,GERD,20,238,8.4
+MOUNJARO,Female,50-64,Gastroparesis,1,238,0.42
+MOUNJARO,Female,50-64,Intestinal Obstruction,2,238,0.84
+MOUNJARO,Female,50-64,Nausea/Vomiting,154,238,64.71
+MOUNJARO,Female,50-64,Pancreatitis,5,238,2.1
+MOUNJARO,Female,65-79,Abdominal Pain,23,55,41.82
+MOUNJARO,Female,65-79,Biliary Disorder,1,55,1.82
+MOUNJARO,Female,65-79,Constipation,9,55,16.36
+MOUNJARO,Female,65-79,Dehydration,4,55,7.27
+MOUNJARO,Female,65-79,Diarrhoea,18,55,32.73
+MOUNJARO,Female,65-79,GERD,8,55,14.55
+MOUNJARO,Female,65-79,Gastroparesis,0,55,0.0
+MOUNJARO,Female,65-79,Intestinal Obstruction,0,55,0.0
+MOUNJARO,Female,65-79,Nausea/Vomiting,34,55,61.82
+MOUNJARO,Female,65-79,Pancreatitis,2,55,3.64
+MOUNJARO,Female,80+,Abdominal Pain,1,1,100.0
+MOUNJARO,Female,80+,Biliary Disorder,0,1,0.0
+MOUNJARO,Female,80+,Constipation,0,1,0.0
+MOUNJARO,Female,80+,Dehydration,0,1,0.0
+MOUNJARO,Female,80+,Diarrhoea,1,1,100.0
+MOUNJARO,Female,80+,GERD,0,1,0.0
+MOUNJARO,Female,80+,Gastroparesis,0,1,0.0
+MOUNJARO,Female,80+,Intestinal Obstruction,0,1,0.0
+MOUNJARO,Female,80+,Nausea/Vomiting,1,1,100.0
+MOUNJARO,Female,80+,Pancreatitis,0,1,0.0
+MOUNJARO,Male,18-34,Abdominal Pain,3,12,25.0
+MOUNJARO,Male,18-34,Biliary Disorder,1,12,8.33
+MOUNJARO,Male,18-34,Constipation,2,12,16.67
+MOUNJARO,Male,18-34,Dehydration,1,12,8.33
+MOUNJARO,Male,18-34,Diarrhoea,2,12,16.67
+MOUNJARO,Male,18-34,GERD,1,12,8.33
+MOUNJARO,Male,18-34,Gastroparesis,0,12,0.0
+MOUNJARO,Male,18-34,Intestinal Obstruction,0,12,0.0
+MOUNJARO,Male,18-34,Nausea/Vomiting,8,12,66.67
+MOUNJARO,Male,18-34,Pancreatitis,3,12,25.0
+MOUNJARO,Male,35-49,Abdominal Pain,13,35,37.14
+MOUNJARO,Male,35-49,Biliary Disorder,0,35,0.0
+MOUNJARO,Male,35-49,Constipation,3,35,8.57
+MOUNJARO,Male,35-49,Dehydration,1,35,2.86
+MOUNJARO,Male,35-49,Diarrhoea,13,35,37.14
+MOUNJARO,Male,35-49,GERD,3,35,8.57
+MOUNJARO,Male,35-49,Gastroparesis,0,35,0.0
+MOUNJARO,Male,35-49,Intestinal Obstruction,1,35,2.86
+MOUNJARO,Male,35-49,Nausea/Vomiting,25,35,71.43
+MOUNJARO,Male,35-49,Pancreatitis,0,35,0.0
+MOUNJARO,Male,50-64,Abdominal Pain,29,69,42.03
+MOUNJARO,Male,50-64,Biliary Disorder,0,69,0.0
+MOUNJARO,Male,50-64,Constipation,7,69,10.14
+MOUNJARO,Male,50-64,Dehydration,5,69,7.25
+MOUNJARO,Male,50-64,Diarrhoea,23,69,33.33
+MOUNJARO,Male,50-64,GERD,7,69,10.14
+MOUNJARO,Male,50-64,Gastroparesis,1,69,1.45
+MOUNJARO,Male,50-64,Intestinal Obstruction,2,69,2.9
+MOUNJARO,Male,50-64,Nausea/Vomiting,32,69,46.38
+MOUNJARO,Male,50-64,Pancreatitis,4,69,5.8
+MOUNJARO,Male,65-79,Abdominal Pain,7,20,35.0
+MOUNJARO,Male,65-79,Biliary Disorder,1,20,5.0
+MOUNJARO,Male,65-79,Constipation,2,20,10.0
+MOUNJARO,Male,65-79,Dehydration,1,20,5.0
+MOUNJARO,Male,65-79,Diarrhoea,6,20,30.0
+MOUNJARO,Male,65-79,GERD,1,20,5.0
+MOUNJARO,Male,65-79,Gastroparesis,0,20,0.0
+MOUNJARO,Male,65-79,Intestinal Obstruction,0,20,0.0
+MOUNJARO,Male,65-79,Nausea/Vomiting,11,20,55.0
+MOUNJARO,Male,65-79,Pancreatitis,1,20,5.0
+MOUNJARO,Male,80+,Abdominal Pain,0,0,
+MOUNJARO,Male,80+,Biliary Disorder,0,0,
+MOUNJARO,Male,80+,Constipation,0,0,
+MOUNJARO,Male,80+,Dehydration,0,0,
+MOUNJARO,Male,80+,Diarrhoea,0,0,
+MOUNJARO,Male,80+,GERD,0,0,
+MOUNJARO,Male,80+,Gastroparesis,0,0,
+MOUNJARO,Male,80+,Intestinal Obstruction,0,0,
+MOUNJARO,Male,80+,Nausea/Vomiting,0,0,
+MOUNJARO,Male,80+,Pancreatitis,0,0,
+OZEMPIC,Female,18-34,Abdominal Pain,3,11,27.27
+OZEMPIC,Female,18-34,Biliary Disorder,0,11,0.0
+OZEMPIC,Female,18-34,Constipation,1,11,9.09
+OZEMPIC,Female,18-34,Dehydration,1,11,9.09
+OZEMPIC,Female,18-34,Diarrhoea,0,11,0.0
+OZEMPIC,Female,18-34,GERD,0,11,0.0
+OZEMPIC,Female,18-34,Gastroparesis,1,11,9.09
+OZEMPIC,Female,18-34,Intestinal Obstruction,0,11,0.0
+OZEMPIC,Female,18-34,Nausea/Vomiting,6,11,54.55
+OZEMPIC,Female,18-34,Pancreatitis,3,11,27.27
+OZEMPIC,Female,35-49,Abdominal Pain,18,49,36.73
+OZEMPIC,Female,35-49,Biliary Disorder,3,49,6.12
+OZEMPIC,Female,35-49,Constipation,4,49,8.16
+OZEMPIC,Female,35-49,Dehydration,6,49,12.24
+OZEMPIC,Female,35-49,Diarrhoea,12,49,24.49
+OZEMPIC,Female,35-49,GERD,2,49,4.08
+OZEMPIC,Female,35-49,Gastroparesis,1,49,2.04
+OZEMPIC,Female,35-49,Intestinal Obstruction,1,49,2.04
+OZEMPIC,Female,35-49,Nausea/Vomiting,34,49,69.39
+OZEMPIC,Female,35-49,Pancreatitis,3,49,6.12
+OZEMPIC,Female,50-64,Abdominal Pain,45,158,28.48
+OZEMPIC,Female,50-64,Biliary Disorder,1,158,0.63
+OZEMPIC,Female,50-64,Constipation,19,158,12.03
+OZEMPIC,Female,50-64,Dehydration,14,158,8.86
+OZEMPIC,Female,50-64,Diarrhoea,43,158,27.22
+OZEMPIC,Female,50-64,GERD,7,158,4.43
+OZEMPIC,Female,50-64,Gastroparesis,3,158,1.9
+OZEMPIC,Female,50-64,Intestinal Obstruction,0,158,0.0
+OZEMPIC,Female,50-64,Nausea/Vomiting,104,158,65.82
+OZEMPIC,Female,50-64,Pancreatitis,19,158,12.03
+OZEMPIC,Female,65-79,Abdominal Pain,49,141,34.75
+OZEMPIC,Female,65-79,Biliary Disorder,6,141,4.26
+OZEMPIC,Female,65-79,Constipation,33,141,23.4
+OZEMPIC,Female,65-79,Dehydration,5,141,3.55
+OZEMPIC,Female,65-79,Diarrhoea,41,141,29.08
+OZEMPIC,Female,65-79,GERD,9,141,6.38
+OZEMPIC,Female,65-79,Gastroparesis,0,141,0.0
+OZEMPIC,Female,65-79,Intestinal Obstruction,3,141,2.13
+OZEMPIC,Female,65-79,Nausea/Vomiting,94,141,66.67
+OZEMPIC,Female,65-79,Pancreatitis,9,141,6.38
+OZEMPIC,Female,80+,Abdominal Pain,4,11,36.36
+OZEMPIC,Female,80+,Biliary Disorder,0,11,0.0
+OZEMPIC,Female,80+,Constipation,2,11,18.18
+OZEMPIC,Female,80+,Dehydration,0,11,0.0
+OZEMPIC,Female,80+,Diarrhoea,4,11,36.36
+OZEMPIC,Female,80+,GERD,0,11,0.0
+OZEMPIC,Female,80+,Gastroparesis,0,11,0.0
+OZEMPIC,Female,80+,Intestinal Obstruction,0,11,0.0
+OZEMPIC,Female,80+,Nausea/Vomiting,6,11,54.55
+OZEMPIC,Female,80+,Pancreatitis,2,11,18.18
+OZEMPIC,Male,18-34,Abdominal Pain,0,3,0.0
+OZEMPIC,Male,18-34,Biliary Disorder,0,3,0.0
+OZEMPIC,Male,18-34,Constipation,0,3,0.0
+OZEMPIC,Male,18-34,Dehydration,0,3,0.0
+OZEMPIC,Male,18-34,Diarrhoea,1,3,33.33
+OZEMPIC,Male,18-34,GERD,0,3,0.0
+OZEMPIC,Male,18-34,Gastroparesis,0,3,0.0
+OZEMPIC,Male,18-34,Intestinal Obstruction,0,3,0.0
+OZEMPIC,Male,18-34,Nausea/Vomiting,1,3,33.33
+OZEMPIC,Male,18-34,Pancreatitis,1,3,33.33
+OZEMPIC,Male,35-49,Abdominal Pain,7,27,25.93
+OZEMPIC,Male,35-49,Biliary Disorder,1,27,3.7
+OZEMPIC,Male,35-49,Constipation,2,27,7.41
+OZEMPIC,Male,35-49,Dehydration,1,27,3.7
+OZEMPIC,Male,35-49,Diarrhoea,7,27,25.93
+OZEMPIC,Male,35-49,GERD,1,27,3.7
+OZEMPIC,Male,35-49,Gastroparesis,1,27,3.7
+OZEMPIC,Male,35-49,Intestinal Obstruction,0,27,0.0
+OZEMPIC,Male,35-49,Nausea/Vomiting,10,27,37.04
+OZEMPIC,Male,35-49,Pancreatitis,8,27,29.63
+OZEMPIC,Male,50-64,Abdominal Pain,34,94,36.17
+OZEMPIC,Male,50-64,Biliary Disorder,3,94,3.19
+OZEMPIC,Male,50-64,Constipation,12,94,12.77
+OZEMPIC,Male,50-64,Dehydration,9,94,9.57
+OZEMPIC,Male,50-64,Diarrhoea,32,94,34.04
+OZEMPIC,Male,50-64,GERD,5,94,5.32
+OZEMPIC,Male,50-64,Gastroparesis,0,94,0.0
+OZEMPIC,Male,50-64,Intestinal Obstruction,2,94,2.13
+OZEMPIC,Male,50-64,Nausea/Vomiting,44,94,46.81
+OZEMPIC,Male,50-64,Pancreatitis,17,94,18.09
+OZEMPIC,Male,65-79,Abdominal Pain,42,112,37.5
+OZEMPIC,Male,65-79,Biliary Disorder,2,112,1.79
+OZEMPIC,Male,65-79,Constipation,27,112,24.11
+OZEMPIC,Male,65-79,Dehydration,3,112,2.68
+OZEMPIC,Male,65-79,Diarrhoea,28,112,25.0
+OZEMPIC,Male,65-79,GERD,4,112,3.57
+OZEMPIC,Male,65-79,Gastroparesis,1,112,0.89
+OZEMPIC,Male,65-79,Intestinal Obstruction,1,112,0.89
+OZEMPIC,Male,65-79,Nausea/Vomiting,53,112,47.32
+OZEMPIC,Male,65-79,Pancreatitis,6,112,5.36
+OZEMPIC,Male,80+,Abdominal Pain,4,9,44.44
+OZEMPIC,Male,80+,Biliary Disorder,0,9,0.0
+OZEMPIC,Male,80+,Constipation,1,9,11.11
+OZEMPIC,Male,80+,Dehydration,1,9,11.11
+OZEMPIC,Male,80+,Diarrhoea,4,9,44.44
+OZEMPIC,Male,80+,GERD,0,9,0.0
+OZEMPIC,Male,80+,Gastroparesis,0,9,0.0
+OZEMPIC,Male,80+,Intestinal Obstruction,0,9,0.0
+OZEMPIC,Male,80+,Nausea/Vomiting,4,9,44.44
+OZEMPIC,Male,80+,Pancreatitis,3,9,33.33
+SAXENDA,Female,18-34,Abdominal Pain,10,38,26.32
+SAXENDA,Female,18-34,Biliary Disorder,6,38,15.79
+SAXENDA,Female,18-34,Constipation,1,38,2.63
+SAXENDA,Female,18-34,Dehydration,5,38,13.16
+SAXENDA,Female,18-34,Diarrhoea,6,38,15.79
+SAXENDA,Female,18-34,GERD,0,38,0.0
+SAXENDA,Female,18-34,Gastroparesis,0,38,0.0
+SAXENDA,Female,18-34,Intestinal Obstruction,0,38,0.0
+SAXENDA,Female,18-34,Nausea/Vomiting,18,38,47.37
+SAXENDA,Female,18-34,Pancreatitis,9,38,23.68
+SAXENDA,Female,35-49,Abdominal Pain,32,121,26.45
+SAXENDA,Female,35-49,Biliary Disorder,25,121,20.66
+SAXENDA,Female,35-49,Constipation,11,121,9.09
+SAXENDA,Female,35-49,Dehydration,6,121,4.96
+SAXENDA,Female,35-49,Diarrhoea,23,121,19.01
+SAXENDA,Female,35-49,GERD,6,121,4.96
+SAXENDA,Female,35-49,Gastroparesis,1,121,0.83
+SAXENDA,Female,35-49,Intestinal Obstruction,1,121,0.83
+SAXENDA,Female,35-49,Nausea/Vomiting,58,121,47.93
+SAXENDA,Female,35-49,Pancreatitis,16,121,13.22
+SAXENDA,Female,50-64,Abdominal Pain,42,115,36.52
+SAXENDA,Female,50-64,Biliary Disorder,19,115,16.52
+SAXENDA,Female,50-64,Constipation,21,115,18.26
+SAXENDA,Female,50-64,Dehydration,3,115,2.61
+SAXENDA,Female,50-64,Diarrhoea,16,115,13.91
+SAXENDA,Female,50-64,GERD,7,115,6.09
+SAXENDA,Female,50-64,Gastroparesis,1,115,0.87
+SAXENDA,Female,50-64,Intestinal Obstruction,0,115,0.0
+SAXENDA,Female,50-64,Nausea/Vomiting,54,115,46.96
+SAXENDA,Female,50-64,Pancreatitis,19,115,16.52
+SAXENDA,Female,65-79,Abdominal Pain,3,27,11.11
+SAXENDA,Female,65-79,Biliary Disorder,1,27,3.7
+SAXENDA,Female,65-79,Constipation,9,27,33.33
+SAXENDA,Female,65-79,Dehydration,2,27,7.41
+SAXENDA,Female,65-79,Diarrhoea,5,27,18.52
+SAXENDA,Female,65-79,GERD,2,27,7.41
+SAXENDA,Female,65-79,Gastroparesis,0,27,0.0
+SAXENDA,Female,65-79,Intestinal Obstruction,0,27,0.0
+SAXENDA,Female,65-79,Nausea/Vomiting,17,27,62.96
+SAXENDA,Female,65-79,Pancreatitis,2,27,7.41
+SAXENDA,Female,80+,Abdominal Pain,0,0,
+SAXENDA,Female,80+,Biliary Disorder,0,0,
+SAXENDA,Female,80+,Constipation,0,0,
+SAXENDA,Female,80+,Dehydration,0,0,
+SAXENDA,Female,80+,Diarrhoea,0,0,
+SAXENDA,Female,80+,GERD,0,0,
+SAXENDA,Female,80+,Gastroparesis,0,0,
+SAXENDA,Female,80+,Intestinal Obstruction,0,0,
+SAXENDA,Female,80+,Nausea/Vomiting,0,0,
+SAXENDA,Female,80+,Pancreatitis,0,0,
+SAXENDA,Male,18-34,Abdominal Pain,10,13,76.92
+SAXENDA,Male,18-34,Biliary Disorder,0,13,0.0
+SAXENDA,Male,18-34,Constipation,1,13,7.69
+SAXENDA,Male,18-34,Dehydration,0,13,0.0
+SAXENDA,Male,18-34,Diarrhoea,1,13,7.69
+SAXENDA,Male,18-34,GERD,0,13,0.0
+SAXENDA,Male,18-34,Gastroparesis,0,13,0.0
+SAXENDA,Male,18-34,Intestinal Obstruction,1,13,7.69
+SAXENDA,Male,18-34,Nausea/Vomiting,3,13,23.08
+SAXENDA,Male,18-34,Pancreatitis,0,13,0.0
+SAXENDA,Male,35-49,Abdominal Pain,2,7,28.57
+SAXENDA,Male,35-49,Biliary Disorder,1,7,14.29
+SAXENDA,Male,35-49,Constipation,0,7,0.0
+SAXENDA,Male,35-49,Dehydration,0,7,0.0
+SAXENDA,Male,35-49,Diarrhoea,2,7,28.57
+SAXENDA,Male,35-49,GERD,0,7,0.0
+SAXENDA,Male,35-49,Gastroparesis,0,7,0.0
+SAXENDA,Male,35-49,Intestinal Obstruction,1,7,14.29
+SAXENDA,Male,35-49,Nausea/Vomiting,4,7,57.14
+SAXENDA,Male,35-49,Pancreatitis,1,7,14.29
+SAXENDA,Male,50-64,Abdominal Pain,7,25,28.0
+SAXENDA,Male,50-64,Biliary Disorder,2,25,8.0
+SAXENDA,Male,50-64,Constipation,4,25,16.0
+SAXENDA,Male,50-64,Dehydration,3,25,12.0
+SAXENDA,Male,50-64,Diarrhoea,3,25,12.0
+SAXENDA,Male,50-64,GERD,1,25,4.0
+SAXENDA,Male,50-64,Gastroparesis,0,25,0.0
+SAXENDA,Male,50-64,Intestinal Obstruction,2,25,8.0
+SAXENDA,Male,50-64,Nausea/Vomiting,11,25,44.0
+SAXENDA,Male,50-64,Pancreatitis,5,25,20.0
+SAXENDA,Male,65-79,Abdominal Pain,1,12,8.33
+SAXENDA,Male,65-79,Biliary Disorder,1,12,8.33
+SAXENDA,Male,65-79,Constipation,2,12,16.67
+SAXENDA,Male,65-79,Dehydration,0,12,0.0
+SAXENDA,Male,65-79,Diarrhoea,2,12,16.67
+SAXENDA,Male,65-79,GERD,0,12,0.0
+SAXENDA,Male,65-79,Gastroparesis,1,12,8.33
+SAXENDA,Male,65-79,Intestinal Obstruction,1,12,8.33
+SAXENDA,Male,65-79,Nausea/Vomiting,5,12,41.67
+SAXENDA,Male,65-79,Pancreatitis,2,12,16.67
+SAXENDA,Male,80+,Abdominal Pain,1,1,100.0
+SAXENDA,Male,80+,Biliary Disorder,0,1,0.0
+SAXENDA,Male,80+,Constipation,0,1,0.0
+SAXENDA,Male,80+,Dehydration,1,1,100.0
+SAXENDA,Male,80+,Diarrhoea,1,1,100.0
+SAXENDA,Male,80+,GERD,0,1,0.0
+SAXENDA,Male,80+,Gastroparesis,0,1,0.0
+SAXENDA,Male,80+,Intestinal Obstruction,0,1,0.0
+SAXENDA,Male,80+,Nausea/Vomiting,0,1,0.0
+SAXENDA,Male,80+,Pancreatitis,0,1,0.0
+WEGOVY,Female,18-34,Abdominal Pain,29,92,31.52
+WEGOVY,Female,18-34,Biliary Disorder,8,92,8.7
+WEGOVY,Female,18-34,Constipation,8,92,8.7
+WEGOVY,Female,18-34,Dehydration,7,92,7.61
+WEGOVY,Female,18-34,Diarrhoea,19,92,20.65
+WEGOVY,Female,18-34,GERD,8,92,8.7
+WEGOVY,Female,18-34,Gastroparesis,1,92,1.09
+WEGOVY,Female,18-34,Intestinal Obstruction,2,92,2.17
+WEGOVY,Female,18-34,Nausea/Vomiting,56,92,60.87
+WEGOVY,Female,18-34,Pancreatitis,9,92,9.78
+WEGOVY,Female,35-49,Abdominal Pain,69,220,31.36
+WEGOVY,Female,35-49,Biliary Disorder,19,220,8.64
+WEGOVY,Female,35-49,Constipation,26,220,11.82
+WEGOVY,Female,35-49,Dehydration,26,220,11.82
+WEGOVY,Female,35-49,Diarrhoea,45,220,20.45
+WEGOVY,Female,35-49,GERD,16,220,7.27
+WEGOVY,Female,35-49,Gastroparesis,7,220,3.18
+WEGOVY,Female,35-49,Intestinal Obstruction,7,220,3.18
+WEGOVY,Female,35-49,Nausea/Vomiting,146,220,66.36
+WEGOVY,Female,35-49,Pancreatitis,16,220,7.27
+WEGOVY,Female,50-64,Abdominal Pain,72,240,30.0
+WEGOVY,Female,50-64,Biliary Disorder,14,240,5.83
+WEGOVY,Female,50-64,Constipation,35,240,14.58
+WEGOVY,Female,50-64,Dehydration,21,240,8.75
+WEGOVY,Female,50-64,Diarrhoea,55,240,22.92
+WEGOVY,Female,50-64,GERD,22,240,9.17
+WEGOVY,Female,50-64,Gastroparesis,5,240,2.08
+WEGOVY,Female,50-64,Intestinal Obstruction,6,240,2.5
+WEGOVY,Female,50-64,Nausea/Vomiting,161,240,67.08
+WEGOVY,Female,50-64,Pancreatitis,19,240,7.92
+WEGOVY,Female,65-79,Abdominal Pain,13,59,22.03
+WEGOVY,Female,65-79,Biliary Disorder,2,59,3.39
+WEGOVY,Female,65-79,Constipation,15,59,25.42
+WEGOVY,Female,65-79,Dehydration,5,59,8.47
+WEGOVY,Female,65-79,Diarrhoea,13,59,22.03
+WEGOVY,Female,65-79,GERD,6,59,10.17
+WEGOVY,Female,65-79,Gastroparesis,2,59,3.39
+WEGOVY,Female,65-79,Intestinal Obstruction,5,59,8.47
+WEGOVY,Female,65-79,Nausea/Vomiting,44,59,74.58
+WEGOVY,Female,65-79,Pancreatitis,1,59,1.69
+WEGOVY,Female,80+,Abdominal Pain,1,1,100.0
+WEGOVY,Female,80+,Biliary Disorder,0,1,0.0
+WEGOVY,Female,80+,Constipation,0,1,0.0
+WEGOVY,Female,80+,Dehydration,0,1,0.0
+WEGOVY,Female,80+,Diarrhoea,1,1,100.0
+WEGOVY,Female,80+,GERD,0,1,0.0
+WEGOVY,Female,80+,Gastroparesis,0,1,0.0
+WEGOVY,Female,80+,Intestinal Obstruction,0,1,0.0
+WEGOVY,Female,80+,Nausea/Vomiting,1,1,100.0
+WEGOVY,Female,80+,Pancreatitis,0,1,0.0
+WEGOVY,Male,18-34,Abdominal Pain,7,20,35.0
+WEGOVY,Male,18-34,Biliary Disorder,0,20,0.0
+WEGOVY,Male,18-34,Constipation,1,20,5.0
+WEGOVY,Male,18-34,Dehydration,3,20,15.0
+WEGOVY,Male,18-34,Diarrhoea,7,20,35.0
+WEGOVY,Male,18-34,GERD,0,20,0.0
+WEGOVY,Male,18-34,Gastroparesis,2,20,10.0
+WEGOVY,Male,18-34,Intestinal Obstruction,0,20,0.0
+WEGOVY,Male,18-34,Nausea/Vomiting,15,20,75.0
+WEGOVY,Male,18-34,Pancreatitis,2,20,10.0
+WEGOVY,Male,35-49,Abdominal Pain,13,46,28.26
+WEGOVY,Male,35-49,Biliary Disorder,4,46,8.7
+WEGOVY,Male,35-49,Constipation,6,46,13.04
+WEGOVY,Male,35-49,Dehydration,2,46,4.35
+WEGOVY,Male,35-49,Diarrhoea,19,46,41.3
+WEGOVY,Male,35-49,GERD,2,46,4.35
+WEGOVY,Male,35-49,Gastroparesis,1,46,2.17
+WEGOVY,Male,35-49,Intestinal Obstruction,2,46,4.35
+WEGOVY,Male,35-49,Nausea/Vomiting,25,46,54.35
+WEGOVY,Male,35-49,Pancreatitis,5,46,10.87
+WEGOVY,Male,50-64,Abdominal Pain,14,72,19.44
+WEGOVY,Male,50-64,Biliary Disorder,4,72,5.56
+WEGOVY,Male,50-64,Constipation,5,72,6.94
+WEGOVY,Male,50-64,Dehydration,14,72,19.44
+WEGOVY,Male,50-64,Diarrhoea,21,72,29.17
+WEGOVY,Male,50-64,GERD,2,72,2.78
+WEGOVY,Male,50-64,Gastroparesis,1,72,1.39
+WEGOVY,Male,50-64,Intestinal Obstruction,2,72,2.78
+WEGOVY,Male,50-64,Nausea/Vomiting,42,72,58.33
+WEGOVY,Male,50-64,Pancreatitis,9,72,12.5
+WEGOVY,Male,65-79,Abdominal Pain,10,18,55.56
+WEGOVY,Male,65-79,Biliary Disorder,0,18,0.0
+WEGOVY,Male,65-79,Constipation,2,18,11.11
+WEGOVY,Male,65-79,Dehydration,0,18,0.0
+WEGOVY,Male,65-79,Diarrhoea,2,18,11.11
+WEGOVY,Male,65-79,GERD,2,18,11.11
+WEGOVY,Male,65-79,Gastroparesis,0,18,0.0
+WEGOVY,Male,65-79,Intestinal Obstruction,1,18,5.56
+WEGOVY,Male,65-79,Nausea/Vomiting,11,18,61.11
+WEGOVY,Male,65-79,Pancreatitis,1,18,5.56
+WEGOVY,Male,80+,Abdominal Pain,2,4,50.0
+WEGOVY,Male,80+,Biliary Disorder,0,4,0.0
+WEGOVY,Male,80+,Constipation,0,4,0.0
+WEGOVY,Male,80+,Dehydration,0,4,0.0
+WEGOVY,Male,80+,Diarrhoea,1,4,25.0
+WEGOVY,Male,80+,GERD,0,4,0.0
+WEGOVY,Male,80+,Gastroparesis,0,4,0.0
+WEGOVY,Male,80+,Intestinal Obstruction,1,4,25.0
+WEGOVY,Male,80+,Nausea/Vomiting,3,4,75.0
+WEGOVY,Male,80+,Pancreatitis,0,4,0.0
